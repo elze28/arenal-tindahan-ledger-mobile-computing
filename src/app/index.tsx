@@ -69,7 +69,7 @@ export default function HomeScreen() {
     <SafeAreaView style={styles.container}>
       <View style={styles.content}>
         <Text style={styles.eyebrow}>Customer Homepage</Text>
-        <Text style={styles.title}>Chan proj week 3</Text>
+        <Text style={styles.title}>Tindahan Ledger</Text>
 
         <View style={styles.card}>
           <View style={styles.statRow}>
